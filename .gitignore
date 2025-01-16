@@ -1,0 +1,6 @@
+__pycache__
+*pycache*
+DS_Store
+*DS_Store*
+.pytest_cache
+.pytest_cache/*
