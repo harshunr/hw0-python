@@ -38,7 +38,7 @@ If your code passes the test cases, you will see output like:
 ```
 ============================================= test session starts ==============================================
 platform darwin -- Python 3.10.9, pytest-7.1.3, pluggy-1.0.0
-rootdir: /Users/harshitanarnoli/Desktop/Spring2025/CSC-583/Classroom/hw0-python
+rootdir: /Users/myuser/Desktop/Spring2025/CSC-583/Classroom/hw0-python
 plugins: playwright-0.3.0, anyio-4.6.0, base-url-2.0.0
 collected 8 items
 
